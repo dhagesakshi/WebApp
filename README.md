@@ -2,10 +2,6 @@
 
 A responsive browser-based version of the Learning Dashboard design, built with HTML, CSS, and vanilla JavaScript. No build tools or package installation are required.
 
-## Run locally
-1. Extract `LearningDashboard_Web.zip`.
-2. Open `index.html` in Chrome, Edge, or another modern browser.
-
 ## Publish with GitHub Pages
 1. Upload `index.html`, `styles.css`, `script.js`, and `README.md` to your GitHub repository.
 2. In the repository, open **Settings → Pages**.
